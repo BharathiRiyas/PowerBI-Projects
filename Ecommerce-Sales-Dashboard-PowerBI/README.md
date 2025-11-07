@@ -1,5 +1,30 @@
-# Ecommerce Sales Dashboard using Power BI
+# Ecommerce Sales Dashboard
 
-The E-commerce Sales Dashboards project aimed to provide comprehensive insights into e-commerce sales performance through interactive and visually appealing dashboards developed using Power BI. The project focused on analyzing and monitoring key metrics such as profit, order volume, customer demographics, product performance, and sales trends. By leveraging data from the e-commerce platform, the dashboards enabled stakeholders to make data-driven decisions, identify growth opportunities, and track the effectiveness of marketing campaigns.
+This project contains a Power BI dashboard for analyzing Ecommerce sales performance.
 
-![image](https://github.com/Niktiru/Ecommerce-Sales-Dashboard-using-Power-BI/assets/109805535/67fb723d-020e-4650-90eb-cfe4c4146275)
+## 📊 Dashboard Overview
+- Sales by Region
+- Customer Segmentation
+- Product Category Insights
+- Order Quantity Trends
+- Key Performance Metrics
+
+## 🛠 Tools Used
+- Power BI Desktop
+- Microsoft Excel (for data source)
+- DAX Measures
+
+## 🚀 How to Use
+1. Download the `.pbix` file included in this project.
+2. Open it using **Power BI Desktop**.
+3. Refresh the data source if required and explore the dashboard.
+
+## 📂 Project Files Included
+- `Ecommerce Sales Dashboard.pbix` — Power BI Dashboard
+
+## 👨‍💻 Author
+Bharathi Raja M  
+Java Full Stack Developer / Data Analyst Learner
+
+---
+If you have any suggestions or improvements, feel free to connect!
