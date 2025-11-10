@@ -52,6 +52,6 @@ This project contains a Power BI dashboard focused on analyzing and visualizing 
 - Interactive and dynamic visuals
 
 ## 👤 Author
-Developed by: *Your Name*  
+Developed by: Bharathi  
 Role: Power BI Developer / Data Analyst
 
